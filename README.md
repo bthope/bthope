@@ -40,7 +40,7 @@
 
 ## 🔥 Featured Projects
 
-### 🎬 [Movie Ticket Booking Management System](https://github.com/bthope/movie-booking-system)
+### 🎬 [Movie Ticket Booking Management System]([https://github.com/bthope/movie-booking-system](https://github.com/Minhquanzz1002/cinema))
 **Tech Stack:** React Native, Next.js, TypeScript, Spring Boot, PostgreSQL, Redis  
 **Duration:** October 2024 - December 2024  
 **Team:** 2 members | **Role:** Frontend Developer
@@ -55,7 +55,7 @@ Modern cinema ticket booking platform inspired by Galaxy Cinema with comprehensi
 - 👥 Staff & customer management
 - 🏢 Multi-cinema support
 
-### 💬 [ZaloLite - Chat Application](https://github.com/bthope/zalolite)
+### 💬 [ZaloLite - Chat Application]([https://github.com/bthope/zalolite](https://github.com/Minhquanzz1002/cinema))
 **Tech Stack:** React Native, Firebase, Cloudinary, Figma  
 **Duration:** December 2023 - May 2024  
 **Team:** 5 members | **Role:** Frontend Developer
