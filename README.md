@@ -28,11 +28,11 @@
 - 🚀 Frontend
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> <img src="https://skillicons.dev/icons?i=figma" /> </div>
 
-- 🔧 Backend
+- 💾 Backend
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,postgresql,redis,firebase" /> </div>
 
-- ⚙️ Tools
+- 🛠️ Tools
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </div>
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" height="6"/> </div>
