@@ -22,7 +22,7 @@
 **Passionate Frontend Developer** and Software Engineering student at Industrial University of Ho Chi Minh City. I specialize in creating beautiful, responsive, and user-friendly web applications, transforming complex problems into simple, elegant solutions through clean code and cutting-edge technologies.
 
 - 🎓 **Software Engineering Student** at IUH (2020-2025) 
-- 📧 Reach me at: **lehuubang965@gmail.com**
+- 📧 This is my profile: **https://protfolio-lehuubang.netlify.app**
 - 📍 Location: **Phan Van Tri, Go Vap, Ho Chi Minh**
 
 - 🚀 Frontend
